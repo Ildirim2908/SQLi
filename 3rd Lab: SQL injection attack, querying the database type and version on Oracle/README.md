@@ -1,5 +1,5 @@
 ## Lab Description says
 
-![SQLi PoC](images/5.png)
+![SQLi PoC](images/6.png)
 
 
