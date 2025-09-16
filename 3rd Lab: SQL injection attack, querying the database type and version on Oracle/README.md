@@ -10,3 +10,9 @@
 ## Detecting SQLi vulnerability presenet by ' sign
 
 ![SQLi PoC](images/7.png)
+
+
+## Detecting number of columns by "order by" method to further use union based injection method
+
+![SQLi PoC](images/8.png)
+
