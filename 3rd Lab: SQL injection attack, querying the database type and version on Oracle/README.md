@@ -16,3 +16,8 @@
 
 ![SQLi PoC](images/8.png)
 
+## Final proof of concept
+
+![SQLi PoC](images/10.png)
+
+![SQLi PoC](images/9.png)
