@@ -14,3 +14,12 @@
 ## Detecting number of columns in original query to use union based injection further
 
 ![SQLi PoC](images/13.png)
+
+
+## Injecting payload to get the database version
+
+
+![SQLi PoC](images/14.png)
+
+
+![SQLi PoC](images/15.png)
