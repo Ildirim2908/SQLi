@@ -37,6 +37,6 @@ as we see we got an error indicating that indeed application may be vulnerable
 
 ![SQLi PoC](images/8.png.png)
 
-# Finallt when we retrieve data from this columns we see password for username 'administrator' and several other users on website
+# Finally when we retrieve data from this columns we see password for username 'administrator' and several other users on website
 
 ![SQLi PoC](images/10.png.png)
