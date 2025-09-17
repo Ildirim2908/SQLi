@@ -22,3 +22,11 @@ as we see we got an error indicating that indeed application may be vulnerable
 # Let's try retrieving database version to inject payloads comfortably in future
 
 ![SQLi PoC](images/5.png.png)
+
+
+# injecting payload to get table_names to see where could be username and password stored
+
+
+![SQLi PoC](images/6.png.png)
+
+![SQLi PoC](images/7.png.png)
