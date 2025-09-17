@@ -30,3 +30,9 @@ as we see we got an error indicating that indeed application may be vulnerable
 ![SQLi PoC](images/6.png.png)
 
 ![SQLi PoC](images/7.png.png)
+
+## users_dqjyvw seems interesting
+
+# Let's see what columns does this table have
+
+![SQLi PoC](images/8.png.png)
