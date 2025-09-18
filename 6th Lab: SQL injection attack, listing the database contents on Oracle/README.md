@@ -34,7 +34,7 @@ this is the payload that is used to retrieve table names
 
 ![SQLi PoC](images/23.png)
 
-# And Finally let's see what is inside thise columns
+# And Finally let's see what is inside these columns
 
 ![SQLi PoC](images/24.png)
 
