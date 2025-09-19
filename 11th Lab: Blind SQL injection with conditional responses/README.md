@@ -16,4 +16,5 @@
 ## but to make things faster and automize everything I will use Burp's intruder section to do it
 ![SQLi PoC](images/59.png)
 ### this is how payload will look 
+### every time I will get successful result I will increment "SUBSTRING((SELECT password FROM users WHERE username = 'administrator'), #1#, 1)" in this payload first one, the one that i added # sign
 
