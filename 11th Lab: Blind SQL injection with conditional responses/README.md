@@ -17,4 +17,8 @@
 ![SQLi PoC](images/59.png)
 ### this is how payload will look 
 ### every time I will get successful result I will increment "SUBSTRING((SELECT password FROM users WHERE username = 'administrator'), #1#, 1)" in this payload first one, the one that i added # sign
+# This is how successful result in intruder looks
+![SQLi PoC](images/55.png)
+# In the end when no successful result is returned that means that no characters are left in password and everything is found this is password of administrator user
+![SQLi PoC](images/58.png)
 
