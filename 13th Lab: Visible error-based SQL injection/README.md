@@ -6,7 +6,7 @@
 ## we see error which shows us entire sql query that is used on backend
 # Let's retrieve password of administrator user from database
 ![SQLi PoC](images/75.png)
-## CAST function is changing data, as password is string value but we are changing it into integer password should be shown in error message, however this technique is not successful because query is cut on backend and it is not retrieving password in the end
+## CAST function is changing data type, as password is string value but we are changing it into integer password should be shown in error message, however this technique is not successful because query is cut on backend and it is not retrieving password in the end
 ## let's use another technique using LIMIT function.
 # First user in users table
 ![SQLi PoC](images/72.png)
