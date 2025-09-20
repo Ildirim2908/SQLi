@@ -9,7 +9,7 @@
 ## as we see 200 ok response is returned
 # This injection is called Error-based sql injection so let's use oracle oriented payload to retrieve data from backend
 ![SQLi PoC](images/64.png)
-## in this payload if the condition inside case clause is true we should receive 500 response (1/0 causes error in database logic) from server, if not 200 ok message is returned. By trial and errors we see that administrator user's password's first letter is 'g'
+## in this payload if the condition inside case clause is true we should receive 500 response (1/0 causes error in database logic) from server, if not, 200 ok message is returned. By trial and errors we see that administrator user's password's first letter is 'g'
 # To make things faster i will send this request to intruder and kind of automate password detection process
 ![SQLi PoC](images/65.png)
 # In the end we get 20 character long password of administrator user and get access to this account
